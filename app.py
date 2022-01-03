@@ -27,7 +27,7 @@ file.write(f"""
   <link href="https://fonts.googleapis.com/css2?family=Lobster+Two&display=swap" rel="stylesheet">
 </head>
 
-<body style="overflow: hidden; background-color: ghostwhite;">
+<body style="overflow: hidden; background-color: blue;">
   <div style="height: 100vh; width: 100vw; display: flex; justify-content: center; align-items: center">
     <div style="font-family: 'Lobster Two'; font-size: 15rem;">PI: {numpy.pi}</div>
   </div>
